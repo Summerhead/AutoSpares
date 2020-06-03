@@ -137,6 +137,10 @@
 			<Subsystem>УчетМатериалов</Subsystem>
 			<Subsystem>ОказаниеУслуг</Subsystem>
 			<Subsystem>Фирма</Subsystem>
+			<CommonPicture>Бухгалтерия</CommonPicture>
+			<CommonPicture>УчетМатериалов</CommonPicture>
+			<CommonPicture>ОказаниеУслуг</CommonPicture>
+			<CommonPicture>Фирма</CommonPicture>
 			<Role>Администратор</Role>
 			<Role>Директор</Role>
 			<Role>МенеджерПоКуплиПродажам</Role>
